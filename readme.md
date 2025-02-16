@@ -99,7 +99,7 @@ Parentheses are used to define the scope and precedence of the operators.
 ## Conditional (Boolean OR)
 ```regex
 Buy More (Bread|Milk) : matches (Buy More Bread, Buy More Bread)
-``
+```
 
 ## Meta-Characters
 + To match a single digit: `\d`
